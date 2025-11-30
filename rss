@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:touchpoint="http://www.gstatic.com/reader/tools/ns" version="2.0">
+  <channel>
+    <title>CNN – Top Stories</title>
+    <description>CNN Latest News Feed</description>
+    <link>https://edition.cnn.com/</link>
+    <atom:link href="https://edition.cnn.com/rss" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <lastBuildDate>Sun, 30 Nov 2025 12:00:00 GMT</lastBuildDate>
+    <pubDate>Sun, 30 Nov 2025 12:00:00 GMT</pubDate>
+
+    <item>
+      <title>Trump will not invite South Africa to G20 in US</title>
+      <description><![CDATA[Trump administration will exclude South Africa from G20 invitation amid diplomatic restructuring.]]></description>
+      <link>https://edition.cnn.com/2025/11/26/politics/trump-administration-not-planning-invite-south-africa-g20</link>
+      <pubDate>Wed, 26 Nov 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">cnn-g20-sa-2025-11-26</guid>
+    </item>
+
+    <item>
+      <title>FDA official plans to change vaccine approval process</title>
+      <description><![CDATA[Senior FDA official says Covid-19 vaccines caused fatal outcomes in children, proposes drastic changes to approval standards.]]></description>
+      <link>https://edition.cnn.com/2025/11/29/politics/vaccine-approval-process-fda-official</link>
+      <pubDate>Sat, 29 Nov 2025 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">cnn-fda-vaccine-2025-11-29</guid>
+    </item>
+
+    <item>
+      <title>Peru sentences two former presidents just a day apart</title>
+      <description><![CDATA[A historic moment for Peru as two ex-presidents receive sentences within 24 hours of each other.]]></description>
+      <link>https://edition.cnn.com/peru-sentences-former-president-castillo-latam-hnk-intl</link>
+      <pubDate>Tue, 25 Nov 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">cnn-peru-presidents-2025</guid>
+    </item>
+
+    <item>
+      <title>Iran boycotting 2026 World Cup draw</title>
+      <description><![CDATA[Iran refuses to attend 2026 World Cup draw citing U.S. visa restrictions on sports officials.]]></description>
+      <link>https://edition.cnn.com/2025/11/28/sport/soccer-mens-world-cup-iran-draw-boycott</link>
+      <pubDate>Fri, 28 Nov 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">cnn-iran-worldcup-2025-11-28</guid>
+    </item>
+
+    <item>
+      <title>How ‘robo-grandma’ dolls ease loneliness in aging East Asia</title>
+      <description><![CDATA[AI-powered grandmother dolls are helping elderly citizens cope with isolation across East Asia.]]></description>
+      <link>https://edition.cnn.com/health/asias-aging-population-finds-comfort-care-in-robo-grandma-dolls-wellness-spc</link>
+      <pubDate>Mon, 24 Nov 2025 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">cnn-robo-grandma-2025</guid>
+    </item>
+
+    <item>
+      <title>She lost her son to gun violence — now she helps reduce crime in Baltimore</title>
+      <description><![CDATA[A Baltimore mother turns tragedy into activism as part of a movement credited with lowering city violence.]]></description>
+      <link>https://edition.cnn.com/2025/11/24/us/baltimore-crime-safe-streets-rochelle-johnson-hdy</link>
+      <pubDate>Mon, 24 Nov 2025 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">cnn-baltimore-crime-2025</guid>
+    </item>
+
+    <item>
+      <title>TikTok influencer loses $1.75 million in court over affair scandal</title>
+      <description><![CDATA[Her affair with a married man triggered a lawsuit — now influencers across social media can’t stop discussing the verdict.]]></description>
+      <link>https://edition.cnn.com/2025/11/26/entertainment/brenay-kennard-tiktok-akira-montague-cec</link>
+      <pubDate>Wed, 26 Nov 2025 11:00:00 GMT</pubDate>
+      <guid isPermaLink="false">cnn-tiktok-lawsuit-2025</guid>
+    </item>
+
+    <item>
+      <title>13 months without representation in a Texas congressional district</title>
+      <description><![CDATA[Residents describe feeling like political pawns after extended redistricting gridlock.]]></description>
+      <link>https://edition.cnn.com/2025/11/25/politics/texas-redistricting-congress-saga</link>
+      <pubDate>Tue, 25 Nov 2025 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">cnn-texas-redistricting-2025</guid>
+    </item>
+
+    <item>
+      <title>Rare deep-sea sharks used in beauty products near extinction</title>
+      <description><![CDATA[Demand for luxury cosmetics is pushing mysterious deepwater shark species toward collapse.]]></description>
+      <link>https://edition.cnn.com/science/deepwater-sharks-extinction-protection-laws-c2e-spc</link>
+      <pubDate>Thu, 27 Nov 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">cnn-sharks-extinction-2025</guid>
+    </item>
+
+    <item>
+      <title>Millions of lost suitcases end up in an Alabama store</title>
+      <description><![CDATA[Unclaimed luggage from U.S. travelers is sold at a unique Alabama warehouse that draws tourists nationwide.]]></description>
+      <link>https://edition.cnn.com/2024/11/30/travel/unclaimed-baggage-store-alabama-cec</link>
+      <pubDate>Sat, 30 Nov 2024 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">cnn-suitcases-2024</guid>
+    </item>
+
+  </channel>
+</rss>
